@@ -102,7 +102,7 @@ The fastest way to run a SPOOL pipeline is via the **Runtime** module and a sing
 <dependency>
     <groupId>io.github.spool-framework</groupId>
     <artifactId>runtime</artifactId>
-    <version>1.1.0-SNAPSHOT</version>
+    <version>1.1.0</version>
 </dependency>
 ```
 
